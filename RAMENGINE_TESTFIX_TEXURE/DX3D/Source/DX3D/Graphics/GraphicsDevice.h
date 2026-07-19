@@ -1,0 +1,63 @@
+/*MIT License
+
+C++ 3D Game Tutorial Series (https://github.com/PardCode/CPP-3D-Game-Tutorial-Series)
+
+Copyright (c) 2019-2026, PardCode
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.*/
+
+#pragma once
+#include <DX3D/Graphics/GraphicsResource.h>
+#include <DX3D/Core/Common.h>
+#include <DX3D/Core/Base.h>
+#include <d3d11.h>
+#include <wrl.h>
+
+namespace dx3d
+{
+	class GraphicsDevice final: public Base, public std::enable_shared_from_this<GraphicsDevice>
+	{
+	public:
+		explicit GraphicsDevice(const GraphicsDeviceDesc& desc);
+		virtual ~GraphicsDevice() override;
+
+		RefPtr<SwapChain> createSwapChain(const SwapChainDesc& desc);
+		RefPtr<DeviceContext> createDeviceContext();
+		RefPtr<ShaderBinary> compileShader(const ShaderCompileDesc& desc);
+		RefPtr<GraphicsPipelineState> createGraphicsPipelineState(const GraphicsPipelineStateDesc& desc);
+		RefPtr<VertexBuffer> createVertexBuffer(const VertexBufferDesc& desc);
+		RefPtr<GraphicsPipelineLayout> createGraphicsPipelineLayout(const GraphicsPipelineLayoutDesc& desc);
+		RefPtr<ConstantBuffer> createConstantBuffer(const ConstantBufferDesc& desc);
+		RefPtr<IndexBuffer> createIndexBuffer(const IndexBufferDesc& desc);
+		RefPtr<Texture> createTexture(const TextureDesc& desc);
+		RefPtr<Sampler> createSampler(const SamplerDesc& desc);
+
+
+		void executeCommandList(DeviceContext& context);
+	private:
+		GraphicsResourceDesc getGraphicsResourceDesc() const noexcept;
+	private:
+		Microsoft::WRL::ComPtr<ID3D11Device> m_d3dDevice{};
+		Microsoft::WRL::ComPtr<ID3D11DeviceContext> m_d3dContext{};
+		Microsoft::WRL::ComPtr<IDXGIDevice> m_dxgiDevice{};
+		Microsoft::WRL::ComPtr<IDXGIAdapter> m_dxgiAdapter{};
+		Microsoft::WRL::ComPtr<IDXGIFactory> m_dxgiFactory{};
+	};
+}
+
