@@ -63,6 +63,12 @@ void dx3d::SwapChain::present(bool vsync)
 	}
 }
 
+void dx3d::SwapChain::bindBackBuffer(ID3D11DeviceContext& context) const
+{
+	auto renderTarget = m_rtv.Get();
+	context.OMSetRenderTargets(1, &renderTarget, nullptr);
+}
+
 void dx3d::SwapChain::reloadBuffers()
 {
 	Microsoft::WRL::ComPtr<ID3D11Texture2D> buffer{};
