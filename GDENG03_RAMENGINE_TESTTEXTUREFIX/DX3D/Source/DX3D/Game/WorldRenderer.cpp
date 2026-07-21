@@ -128,5 +128,4 @@ void dx3d::WorldRenderer::render(const World& world, SwapChain& swapChain, f32 d
 	}
 
 	m_graphicsDevice.executeCommandList(context);
-	swapChain.present();
 }

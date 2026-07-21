@@ -1,0 +1,63 @@
+﻿  CameraComponent.cpp
+  CubeComponent.cpp
+  TransformComponent.cpp
+  Component.cpp
+  WorldRenderer.cpp
+  ShaderBinary.cpp
+  InputSystem.cpp
+  Player.cpp
+  GameObject.cpp
+  World.cpp
+  ConstantBuffer.cpp
+  DeviceContext.cpp
+  Display.cpp
+  Base.cpp
+  Game.cpp
+  Win32Game.cpp
+  IndexBuffer.cpp
+  main.cpp
+  Win32Window.cpp
+  GraphicsDevice.cpp
+  Logger.cpp
+  SwapChain.cpp
+  GraphicsPipelineState.cpp
+  VertexBuffer.cpp
+  MainGame.cpp
+  ResourceManager.cpp
+  Resource.cpp
+  MaterialResource.cpp
+  Texture.cpp
+  TextureResource.cpp
+  Sampler.cpp
+  GraphicsPipelineLayout.cpp
+Game.obj : error LNK2019: unresolved external symbol "struct ImGuiContext * __cdecl ImGui::CreateContext(struct ImFontAtlas *)" (?CreateContext@ImGui@@YAPEAUImGuiContext@@PEAUImFontAtlas@@@Z) referenced in function "public: __cdecl dx3d::Game::Game(struct dx3d::GameDesc const &)" (??0Game@dx3d@@QEAA@AEBUGameDesc@1@@Z)
+Game.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::DestroyContext(struct ImGuiContext *)" (?DestroyContext@ImGui@@YAXPEAUImGuiContext@@@Z) referenced in function "public: virtual __cdecl dx3d::Game::~Game(void)" (??1Game@dx3d@@UEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol "struct ImGuiIO & __cdecl ImGui::GetIO(void)" (?GetIO@ImGui@@YAAEAUImGuiIO@@XZ) referenced in function "public: __cdecl dx3d::Game::Game(struct dx3d::GameDesc const &)" (??0Game@dx3d@@QEAA@AEBUGameDesc@1@@Z)
+Game.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::StyleColorsDark(struct ImGuiStyle *)" (?StyleColorsDark@ImGui@@YAXPEAUImGuiStyle@@@Z) referenced in function "public: __cdecl dx3d::Game::Game(struct dx3d::GameDesc const &)" (??0Game@dx3d@@QEAA@AEBUGameDesc@1@@Z)
+Game.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui::DebugCheckVersionAndDataLayout(char const *,unsigned __int64,unsigned __int64,unsigned __int64,unsigned __int64,unsigned __int64,unsigned __int64)" (?DebugCheckVersionAndDataLayout@ImGui@@YA_NPEBD_K11111@Z) referenced in function "public: __cdecl dx3d::Game::Game(struct dx3d::GameDesc const &)" (??0Game@dx3d@@QEAA@AEBUGameDesc@1@@Z)
+Game.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui_ImplWin32_Init(void *)" (?ImGui_ImplWin32_Init@@YA_NPEAX@Z) referenced in function "public: __cdecl dx3d::Game::Game(struct dx3d::GameDesc const &)" (??0Game@dx3d@@QEAA@AEBUGameDesc@1@@Z)
+Game.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui_ImplWin32_Shutdown(void)" (?ImGui_ImplWin32_Shutdown@@YAXXZ) referenced in function "public: virtual __cdecl dx3d::Game::~Game(void)" (??1Game@dx3d@@UEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui_ImplDX11_Init(struct ID3D11Device *,struct ID3D11DeviceContext *)" (?ImGui_ImplDX11_Init@@YA_NPEAUID3D11Device@@PEAUID3D11DeviceContext@@@Z) referenced in function "public: __cdecl dx3d::Game::Game(struct dx3d::GameDesc const &)" (??0Game@dx3d@@QEAA@AEBUGameDesc@1@@Z)
+Game.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui_ImplDX11_Shutdown(void)" (?ImGui_ImplDX11_Shutdown@@YAXXZ) referenced in function "public: virtual __cdecl dx3d::Game::~Game(void)" (??1Game@dx3d@@UEAA@XZ)
+Win32Window.obj : error LNK2019: unresolved external symbol "__int64 __cdecl ImGui_ImplWin32_WndProcHandler(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?ImGui_ImplWin32_WndProcHandler@@YA_JPEAUHWND__@@I_K_J@Z) referenced in function "__int64 __cdecl WindowProcedure(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WindowProcedure@@YA_JPEAUHWND__@@I_K_J@Z)
+MainGame.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui::Begin(char const *,bool *,int)" (?Begin@ImGui@@YA_NPEBDPEA_NH@Z) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::End(void)" (?End@ImGui@@YAXXZ) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "struct ImVec2 __cdecl ImGui::GetContentRegionAvail(void)" (?GetContentRegionAvail@ImGui@@YA?AUImVec2@@XZ) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "float __cdecl ImGui::GetCursorPosX(void)" (?GetCursorPosX@ImGui@@YAMXZ) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::SetCursorPosX(float)" (?SetCursorPosX@ImGui@@YAXM@Z) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::Separator(void)" (?Separator@ImGui@@YAXXZ) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::TextDisabled(char const *,...)" (?TextDisabled@ImGui@@YAXPEBDZZ) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::TextWrapped(char const *,...)" (?TextWrapped@ImGui@@YAXPEBDZZ) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::BulletText(char const *,...)" (?BulletText@ImGui@@YAXPEBDZZ) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::Image(struct ImTextureRef,struct ImVec2 const &,struct ImVec2 const &,struct ImVec2 const &)" (?Image@ImGui@@YAXUImTextureRef@@AEBUImVec2@@11@Z) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui::ColorPicker4(char const *,float * const,int,float const *)" (?ColorPicker4@ImGui@@YA_NPEBDQEAMHPEBM@Z) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui::BeginMainMenuBar(void)" (?BeginMainMenuBar@ImGui@@YA_NXZ) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::EndMainMenuBar(void)" (?EndMainMenuBar@ImGui@@YAXXZ) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui::BeginMenu(char const *,bool)" (?BeginMenu@ImGui@@YA_NPEBD_N@Z) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::EndMenu(void)" (?EndMenu@ImGui@@YAXXZ) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui::MenuItem(char const *,char const *,bool,bool)" (?MenuItem@ImGui@@YA_NPEBD0_N1@Z) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui::BeginTabBar(char const *,int)" (?BeginTabBar@ImGui@@YA_NPEBDH@Z) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::EndTabBar(void)" (?EndTabBar@ImGui@@YAXXZ) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "bool __cdecl ImGui::BeginTabItem(char const *,bool *,int)" (?BeginTabItem@ImGui@@YA_NPEBDPEA_NH@Z) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+MainGame.obj : error LNK2019: unresolved external symbol "void __cdecl ImGui::EndTabItem(void)" (?EndTabItem@ImGui@@YAXXZ) referenced in function "protected: virtual void __cdecl MainGame::onCreate(void)" (?onCreate@MainGame@@MEAAXXZ)
+Bin\x64\Debug\DirectXGame.exe : fatal error LNK1120: 30 unresolved externals

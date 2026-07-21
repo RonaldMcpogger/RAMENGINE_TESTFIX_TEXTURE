@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Include\\DX3D\\Window\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|solutionrelative:DX3D\\Include\\DX3D\\Window\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Window\\Win32\\Win32Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|solutionrelative:DX3D\\Source\\DX3D\\Window\\Win32\\Win32Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|solutionrelative:DX3D\\Source\\DX3D\\Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Graphics\\GraphicsDevice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|solutionrelative:DX3D\\Source\\DX3D\\Graphics\\GraphicsDevice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Include\\DX3D\\Game\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|solutionrelative:DX3D\\Include\\DX3D\\Game\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Graphics\\SwapChain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|solutionrelative:DX3D\\Source\\DX3D\\Graphics\\SwapChain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Graphics\\SwapChain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|solutionrelative:DX3D\\Source\\DX3D\\Graphics\\SwapChain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\Game\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|solutionrelative:Game\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\Game\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E7AFFC-3DA9-4678-9714-A2008D65BE20}|DirectXGame.vcxproj|solutionrelative:Game\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window.h",
+              "DocumentMoniker": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Include\\DX3D\\Window\\Window.h",
+              "RelativeDocumentMoniker": "DX3D\\Include\\DX3D\\Window\\Window.h",
+              "ToolTip": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Include\\DX3D\\Window\\Window.h",
+              "RelativeToolTip": "DX3D\\Include\\DX3D\\Window\\Window.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-21T03:38:25.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Win32Window.cpp",
+              "DocumentMoniker": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Window\\Win32\\Win32Window.cpp",
+              "RelativeDocumentMoniker": "DX3D\\Source\\DX3D\\Window\\Win32\\Win32Window.cpp",
+              "ToolTip": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Window\\Win32\\Win32Window.cpp",
+              "RelativeToolTip": "DX3D\\Source\\DX3D\\Window\\Win32\\Win32Window.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-20T15:07:20.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Game\\Game.cpp",
+              "RelativeDocumentMoniker": "DX3D\\Source\\DX3D\\Game\\Game.cpp",
+              "ToolTip": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Game\\Game.cpp",
+              "RelativeToolTip": "DX3D\\Source\\DX3D\\Game\\Game.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-21T03:10:42.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphicsDevice.h",
+              "DocumentMoniker": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Graphics\\GraphicsDevice.h",
+              "RelativeDocumentMoniker": "DX3D\\Source\\DX3D\\Graphics\\GraphicsDevice.h",
+              "ToolTip": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Graphics\\GraphicsDevice.h",
+              "RelativeToolTip": "DX3D\\Source\\DX3D\\Graphics\\GraphicsDevice.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-20T14:40:29.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Include\\DX3D\\Game\\Game.h",
+              "RelativeDocumentMoniker": "DX3D\\Include\\DX3D\\Game\\Game.h",
+              "ToolTip": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Include\\DX3D\\Game\\Game.h",
+              "RelativeToolTip": "DX3D\\Include\\DX3D\\Game\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-21T03:34:52.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwapChain.cpp",
+              "DocumentMoniker": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Graphics\\SwapChain.cpp",
+              "RelativeDocumentMoniker": "DX3D\\Source\\DX3D\\Graphics\\SwapChain.cpp",
+              "ToolTip": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Graphics\\SwapChain.cpp",
+              "RelativeToolTip": "DX3D\\Source\\DX3D\\Graphics\\SwapChain.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAWwDkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-20T15:48:05.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SwapChain.h",
+              "DocumentMoniker": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Graphics\\SwapChain.h",
+              "RelativeDocumentMoniker": "DX3D\\Source\\DX3D\\Graphics\\SwapChain.h",
+              "ToolTip": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\DX3D\\Source\\DX3D\\Graphics\\SwapChain.h",
+              "RelativeToolTip": "DX3D\\Source\\DX3D\\Graphics\\SwapChain.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-20T15:17:38.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainGame.cpp",
+              "DocumentMoniker": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\Game\\MainGame.cpp",
+              "RelativeDocumentMoniker": "Game\\MainGame.cpp",
+              "ToolTip": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\Game\\MainGame.cpp",
+              "RelativeToolTip": "Game\\MainGame.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAANIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-20T14:37:36.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainGame.h",
+              "DocumentMoniker": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\Game\\MainGame.h",
+              "RelativeDocumentMoniker": "Game\\MainGame.h",
+              "ToolTip": "C:\\Users\\Rambutan\\Downloads\\RAMENGINETEST\\RAMENGINE_TEST2_TEXTURE\\RAMENGINE_TESTFIX_TEXTURE\\GDENG03_RAMENGINE_TESTTEXTUREFIX\\Game\\MainGame.h",
+              "RelativeToolTip": "Game\\MainGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-20T01:45:58.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
